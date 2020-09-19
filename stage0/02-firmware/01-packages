@@ -1,2 +1,3 @@
-raspberrypi-bootloader
-raspberrypi-kernel
+#raspberrypi-bootloader
+#raspberrypi-kernel
+upiot-kernel-rpi
