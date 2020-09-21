@@ -3,7 +3,7 @@
 # deb-src http://raspbian.raspberrypi.org/raspbian/ RELEASE main contrib non-free rpi
 
 # Chinese mirror 1
-deb http://mirrors.zju.edu.cn/raspbian/raspbian/ RELEASE main contrib non-free rpi firmware
+deb http://mirrors.ustc.edu.cn/raspbian/raspbian RELEASE main contrib non-free rpi firmware
 
 # Chinese mirror 2
 deb http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ RELEASE main contrib non-free rpi firmware
