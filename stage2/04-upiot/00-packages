@@ -1,2 +1,5 @@
 upiot-sx1302-hal
 cockpit
+gpsd-clients gpsd
+pps-tools
+vim
