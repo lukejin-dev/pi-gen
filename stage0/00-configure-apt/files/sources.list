@@ -9,4 +9,4 @@ deb http://mirrors.ustc.edu.cn/raspbian/raspbian RELEASE main contrib non-free r
 deb http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ RELEASE main contrib non-free rpi firmware
 
 # upiot lora gateway
-deb [trusted=yes] http://ken.metathings.cc:81/mirror/upiot-loragw/packages/ /
+deb [trusted=yes] http://118.178.84.247:81/upiot-repo/ /

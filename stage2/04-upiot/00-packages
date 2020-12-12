@@ -1,4 +1,6 @@
+python-systemd
 upiot-sx1302-hal
+upiot-gateway
 cockpit
 gpsd-clients gpsd
 pps-tools
